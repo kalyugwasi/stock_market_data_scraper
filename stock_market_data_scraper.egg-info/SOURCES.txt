@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+stock_market_data_scraper.egg-info/PKG-INFO
+stock_market_data_scraper.egg-info/SOURCES.txt
+stock_market_data_scraper.egg-info/dependency_links.txt
+stock_market_data_scraper.egg-info/entry_points.txt
+stock_market_data_scraper.egg-info/requires.txt
+stock_market_data_scraper.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+pandas
+PyYAML  # For reading config.yaml (we might use it later)l
